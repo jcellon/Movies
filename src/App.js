@@ -77,7 +77,6 @@ const Movies = () => (
           <i
             style={{
               color: "green",
-              paddingTop: "8em",
             }}
           >
             Click in Cell to Edit
